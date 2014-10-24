@@ -1,4 +1,4 @@
-package com.java.six;
+package com.java.six.reference;
 
 /**
  * Created by test on 2014/10/24.
@@ -15,7 +15,7 @@ public class Reference {
         user.setName("test");
         System.out.println("user_init------"+user.getAge() + "-----" + user.getName());
         changeUser(user);
-        System.out.println("user_init------"+user.getAge() + "-----" + user.getName());
+        System.out.println("user_change------"+user.getAge() + "-----" + user.getName());
 
     }
 

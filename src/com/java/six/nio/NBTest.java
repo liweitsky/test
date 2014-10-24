@@ -1,4 +1,4 @@
-package com.java.six;
+package com.java.six.nio;
 
 import java.net.InetAddress;
 import java.net.InetSocketAddress;

@@ -1,4 +1,4 @@
-package com.java.six;
+package com.java.six.reference;
 
 public class User {
         private int age;
